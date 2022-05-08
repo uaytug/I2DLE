@@ -13,7 +13,7 @@ We do not know that the original Wordle game collected as much data as google an
     
 ## Demo
 
-i2dle.github.io
+https://uaytug.github.io/i2dle.github.io/
 
 
   
